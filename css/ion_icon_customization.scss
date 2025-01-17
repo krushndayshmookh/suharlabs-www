@@ -1,9 +1,10 @@
 ---
 ---
+@use "sass:color";
+
 // Colors to use with ion icons
 // Somewhat based off Social Share Kit - https://github.com/darklow/social-share-kit/blob/master/dist/css/social-share-kit.css
 
-@use "sass:color";
 
 // By default the hover color is darkened. You can set the percent below
 $darken-percent: 10%;
